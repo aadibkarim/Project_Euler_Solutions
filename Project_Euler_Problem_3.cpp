@@ -74,17 +74,13 @@ while (i < 600851475143) {
 				isPrime=0;
 				break;
 			}			
-
 		}
 		if(isPrime==1){
 			cout<< i << " is a Prime Factor" << endl;
 		}
-
 	}
 
-
 	i++;
-
 }
 
 return 0;
